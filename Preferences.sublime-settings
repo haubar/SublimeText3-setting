@@ -1,0 +1,37 @@
+{
+	"folder_exclude_patterns":
+	[
+	".svn", ".git", ".hg", "CVS", "tmp"
+	],
+	"ignored_packages":
+	[
+	],
+	"font_size": 16,
+	"font_face": "Monaco",
+	"font_options":
+	[
+    "Inconsolata"
+	],
+	"always_prompt_for_file_reload": true,
+  "always_show_minimap_viewport": true,
+  "drag_text": true,
+  "draw_minimap_border": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces":true,
+	"trim_trailing_white_space_on_save": true,
+	"theme": "Aprosopo Dark@st3.sublime-theme",
+	"wide_caret": true,
+	"draw_white_space":"all",
+
+	//about scheme
+	"color_scheme": "Packages/Theme - Aprosopo/Tomorrow-Night-Eighties-Stormy.tmTheme",
+	"aprosopo_active_bar": true,
+	"aprosopo_dark_aqua": true,
+	"aprosopo_dark_dirty_red": true,
+	"aprosopo_dirty_bar": true,
+	"aprosopo_no_file_icons": true,
+	"aprosopo_show_tab_close_buttons": true,
+
+}
