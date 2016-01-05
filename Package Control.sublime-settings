@@ -1,24 +1,28 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"All Autocomplete",
 		"AutoFileName",
 		"Autoprefixer",
+		"Blade Snippets",
 		"BracketHighlighter",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
 		"Git",
-		"GitGutter",
 		"INI",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Package Control",
 		"phpfmt",
-		"Pylinter",
-		"SideBarEnhancements",
+		"Schemr",
+		"Seti_UI",
 		"SublimeCodeIntel",
 		"sublimelint",
-		"SublimeREPL",
-		"Terminal",
-		"Theme - Aprosopo",
 		"Themr",
 		"TrailingSpaces"
 	]
